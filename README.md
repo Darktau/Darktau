@@ -1,8 +1,6 @@
-# Sergey Tristan — iOS Developer
+# Sergey Tristan
 
 Senior iOS Developer with 15 years of experience building native applications. I work across the full stack of iOS: architecture, CoreData, CloudKit, Metal rendering, AR, and on-device ML.
-
-For 12+ years I've been solely developing **Agado** — a personal productivity app combining tasks, notes, contacts, files, and diary with on-device semantic search. Three full iterations of sync architecture, two full rewrites, no interruptions to the release cadence.
 
 ---
 
