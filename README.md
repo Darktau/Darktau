@@ -11,6 +11,7 @@ Senior iOS Developer with 15 years of experience building native applications. I
 | [SwipableCell](https://github.com/Darktau/SwipableCell) | Swipe actions for SwiftUI `ScrollView` via `UIPanGestureRecognizer` |
 | [CoreDataRepo](https://github.com/Darktau/CoreDataRepo) | Reactive Core Data queries without NSFetchedResultsController — Combine-based requery pipeline for SwiftUI apps |
 | [ReentryGuard](https://github.com/Darktau/ReentryGuard) | A lightweight, actor-based Swift utility for controlling re-entrancy and concurrent execution. |
+| [ReactiveProjection](https://github.com/Darktau/ReactiveProjection) | Swift Macros for building reactive projections. |
 
 
 ---
